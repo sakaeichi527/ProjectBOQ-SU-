@@ -1,0 +1,12 @@
+# Public repository: documentation and reviewed protected releases only.
+*.skp
+*.xls
+*.xlsx
+*.boq.json
+*_源码.zip
+*.rb
+*.py
+*.rbz
+work/
+core/
+private/
