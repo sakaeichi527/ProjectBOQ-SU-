@@ -1,0 +1,43 @@
+Project BOQ Proprietary End-User License
+Copyright (c) 2026 sakaeichi527. All rights reserved.
+
+1. Permission to use
+The copyright holder grants users a non-exclusive, non-transferable permission
+to download official release packages and use them for personal or commercial
+project quantity measurement and quotation. No fee is charged for releases
+identified as free. This does not grant rights to the program's source code.
+
+2. Restrictions
+Except where applicable law permits otherwise, users may not reverse engineer,
+decompile, disassemble, decrypt, extract source code from, or modify the program;
+use AI or other tools to perform such acts; or create derivative software by
+copying or reconstructing its protected code. Users may not remove copyright
+or protection notices, sell or redistribute modified packages, or represent
+unofficial builds as official releases. Linking to the official repository
+and release downloads is permitted.
+
+These restrictions concern protected code and unlawful extraction or copying;
+they do not claim ownership of general ideas, public APIs, engineering methods,
+or independently developed software where protected expression is not copied.
+
+3. Third-party components
+Third-party software remains subject to its own license. This license does not
+restrict rights granted directly by an applicable third-party MIT or other
+license. The proprietary Project BOQ core is not licensed under MIT.
+
+4. User data
+Users retain rights to their models, quantities, prices and generated quotes.
+This license does not transfer ownership of those materials to the author.
+
+5. No warranty
+The software is provided AS IS, without warranties, to the extent permitted
+by applicable law. Users must independently review quantities, scope, pricing,
+taxes and outputs. The software is not a structural-safety certification.
+
+6. Termination
+Permission under this license terminates upon a material breach, subject to
+applicable law. No provision overrides mandatory statutory rights.
+
+7. Technical limits
+Source protection cannot guarantee resistance to all forms of analysis.
+An unsigned or unencrypted internal build is not a protected public release.
